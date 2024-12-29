@@ -1,0 +1,29 @@
+{
+    "name": "mern-estate",
+    "version": "1.0.0",
+    "description": "### Live Link https://real-estate-xenonstack.onrender.com/",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "dev": "nodemon api/index.js",
+        "start": "node api/index.js",
+        "build": "npm install && npm install --prefix client && npm run build --prefix client"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "bcryptjs": "^2.4.3",
+        "cookie-parser": "^1.4.7",
+        "cross-env": "^7.0.3",
+        "dotenv": "^16.4.7",
+        "express": "^4.21.2",
+        "express-session": "^1.18.1",
+        "firebase": "^11.1.0",
+        "jsonwebtoken": "^9.0.2",
+        "mern-estate": "file:",
+        "mongodb": "^6.3.0",
+        "mongoose": "^8.9.2",
+        "nodemon": "^3.0.2"
+    }
+}
