@@ -7,7 +7,7 @@
 ## Xenonstack Assignment
 
 ### Live Link
-https://real-estate-xenonstack.onrender.com/
+ https://anupam-dby.github.io/Akd_Assignment/
 
 ## Overview
 This repository contains the code and resources for a Real Estate application built using the MERN stack with Vite.</br> The project aims to provide users with a seamless platform to browse, list, and manage real estate properties efficiently.
